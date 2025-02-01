@@ -6,6 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui fugiat facere ipsum numquam similique repudiandae magni dolores a quibusdam odio est assumenda deserunt error, quisquam laborum ea officia, veritatis nihil?</p>
+    <ul>
+        <li>Mga bobo ba kayo??</li>
+        <li>Mga bobo ba kayo??</li>
+        <li>Mga bobo ba kayo??</li>
+        <li>Mga bobo ba kayo??</li>
+        <li>Mga bobo ba kayo??</li>
+    </ul>
 </body>
 </html>
