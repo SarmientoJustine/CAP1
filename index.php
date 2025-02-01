@@ -7,5 +7,7 @@
 </head>
 <body>
     <p>Hellowww</p>
+    <h1>mother father</h1>
+    <h2>beaches</h2>
 </body>
 </html>
