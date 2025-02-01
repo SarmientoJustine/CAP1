@@ -7,11 +7,11 @@
 </head>
 <body>
     <ul>
-        <li>Mga bobo ba kayo??</li>
-        <li>Mga bobo ba kayo??</li>
-        <li>Mga bobo ba kayo??</li>
-        <li>Mga bobo ba kayo??</li>
-        <li>Mga bobo ba kayo??</li>
+        <li>ulol hindi kami bobo ahahhah</li>
+        <li>ulol hindi kami bobo ahahhah</li>
+        <li>ulol hindi kami bobo ahahhah</li>
+        <li>ulol hindi kami bobo ahahhah</li>
+        <li>ulol hindi kami bobo ahahhah</li>
     </ul>
 </body>
 </html>
