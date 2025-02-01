@@ -8,6 +8,14 @@
 <body>
     <p>
         osihgoishgoishgoifhgdlhgdlgkdhl
+        wg
+        <s>asgfas
+            fscanffas
+            fclosesaf
+            asfdasfdf
+            asf
+            asf
+        </s>
     </p>
 </body>
 </html>
